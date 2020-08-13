@@ -35,6 +35,7 @@
 }
 @media (max-width: 990px){
     .navbar-brand{
+         padding-top: 0px;padding-bottom: 0px;
         padding-left: 10px;padding-right: 10px;
     }
 }
