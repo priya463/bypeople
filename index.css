@@ -66,6 +66,16 @@ height: 64px;
     font-family: Bower,Georgia,Times New Roman,serif;
     font-size: 1rem;
 }
+  .section-header {
+    font-weight: 500;
+    font-size: 1rem;
+    letter-spacing: .075em;
+    color: #000;
+    text-transform: uppercase;
+    border-top: 1px solid #000;
+    padding-top: 1.5rem;
+    padding-left: 30px;
+}
 }
 @media (min-width: 500px){
 .style{
@@ -86,6 +96,16 @@ height: 64px;
     font-family: Bower,Georgia,Times New Roman,serif;
     padding: 10px 0px;
     font-size: 1.5rem;
+}
+  .section-header {
+    font-weight: 500;
+    font-size: 1rem;
+    letter-spacing: .075em;
+    color: #000;
+    text-transform: uppercase;
+    border-top: 1px solid #000;
+    padding-top: 1.5rem;
+    padding-left: 110px;
 }
 }
 .full:hover{
