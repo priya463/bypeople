@@ -92,8 +92,11 @@ height: 64px;
     
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
-
+.card{
+    border-color: rgb(255, 255, 255);
+}
 .card-img{
+  padding-top: 20px;
     width: 100%;
     height: auto;
 }
