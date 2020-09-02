@@ -73,6 +73,11 @@ height: 64px;
     font-size: 1rem;
     color: grey;
 }
+ p {
+    font-family: Bower,Georgia,Times New Roman,serif;
+    margin-top: 0;
+    margin-bottom: 1.5rem;
+}
 .section-header {
     font-weight: 400;
     font-size: 2rem;
